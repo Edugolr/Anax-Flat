@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mos/anax-flat": "^1.1",
+        "mos/ctextfilter": "^1.2"
+    }
+}
