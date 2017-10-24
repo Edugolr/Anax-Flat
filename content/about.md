@@ -1,10 +1,11 @@
 About this site
 ==============================================
-**ABOUT**
+
+<img src="img/aboutImg.jpg" alt="aboutImg" style="width: 120px; float:left;"/>
 The primary focus of this site is to:
 
 * To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+The source for this site is available on GitHub in [Edugolr/anax-flat](https://github.com/Edugolr/Anax-Flat).
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+This site is produced by [Christofer Wikman](https://www.facebook.com/christofer.wikman) (christofer.wikman@gmail.com).
