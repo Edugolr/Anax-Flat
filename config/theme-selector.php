@@ -22,9 +22,9 @@ return [
 
         "default"   => [
             "title"      => "Your own selected default theme",
-            "class"      => "",
+            "class"      => "default",
             "stylesheets" => [
-                "css/light.min.css",
+                "css/BalansMovement.min.css",
                 "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
             ]
         ],
@@ -82,6 +82,55 @@ return [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
             "stylesheets" => []
+        ],
+
+        "separator2" => "------------------------------------------------",
+
+        "Picture-borders-opacity"       => [
+            "title"      => "background picture different borders and opacity",
+            "class"      => "Background",
+            "stylesheets" => [
+                "css/backgroundPicture.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "textureFull"       => [
+            "title"      => "Texture and ful width",
+            "class"      => "Texture",
+            "stylesheets" => [
+                "css/textureFull.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "gradientPicCenter"       => [
+            "title"      => "gradientPicCenter",
+            "class"      => "gradientPicCenter",
+            "stylesheets" => [
+                "css/gradientPicCenter.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "BalansMovement"       => [
+            "title"      => "BalansMovement",
+            "class"      => "BalansMovement",
+            "stylesheets" => [
+                "css/BalansMovement.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
+        ],
+
+        "Principle2"       => [
+            "title"      => "Principle2",
+            "class"      => "Principle2",
+            "stylesheets" => [
+                "css/Principle2.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+            ]
         ],
     ]
 ];
