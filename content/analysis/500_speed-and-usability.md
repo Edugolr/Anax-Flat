@@ -4,18 +4,18 @@ Det som följer är en utvärdering av webbplatsers laddningstid och användbarh
 på 3 sidor jag själv valt ut.
 
 Hjälpmedel som använts är som följer:
-[Firefox Screenshots](https://support.mozilla.org/en-US/kb/firefox-screenshots) För skärmbilderna.
-[Google Kalkylark](https://www.google.com/intl/sv/sheets/about/) För datahantering.
-[Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/) för analys av vad som kan göras snabbare på websidorna.
-[Firefox dev tool Network_Monitor](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor)
-För analys av laddningstid data och förfrågningar
+[Firefox Screenshots](https://support.mozilla.org/en-US/kb/firefox-screenshots) För skärmbilderna.  
+[Google Kalkylark](https://www.google.com/intl/sv/sheets/about/) För datahantering.  
+[Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/) för analys av vad som kan göras snabbare på websidorna.  
+[Firefox dev tool Network_Monitor](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor) För analys av laddningstid data och förfrågningar  
 
 De 3 sidor jag valt är baserade på sidor jag själv besöker ofta samt en sida
 som handlar om just webboptimering.
 
-* [Nhl.com](https://www.nhl.com).
-* [fz.se](https://www.fz.se).
-* [optimizely.com](https://www.optimizely.com).
+[Nhl.com](https://www.nhl.com)  
+[fz.se](https://www.fz.se)  
+[optimizely.com](https://www.optimizely.com)
+
 
 
 Excelark med rådata
@@ -26,25 +26,23 @@ Excelark med rådata
 [FIGURE src="image/NHLScreenshot.jpg?w=400&h=200" class="right"]
 
 ###Pagespeed poäng:
-Mobil: 57/100.
+Mobil: 57/100.  
+Utnyttja cachelagring i webbläsare.  
+Prioritera synligt innehåll.  
+Aktivera komprimering.  
+Förminska JavaScript.  
+Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.  
+Optimera bilder.  
+Minska svarstiden från servern.  
 
-+ Utnyttja cachelagring i webbläsare.
-+ Prioritera synligt innehåll.
-+ Aktivera komprimering.
-+ Förminska JavaScript.
-+ Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
-+ Optimera bilder.
-+ Minska svarstiden från servern.
-
-Dator: 64/100.
-
-+ Utnyttja cachelagring i webbläsare.
-+ Optimera bilder.
-+ Aktivera komprimering.
-+ Förminska JavaScript.
-+ Prioritera synligt innehåll.
-+ Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
-+ Minska svarstiden från servern.
+Dator: 64/100.  
+Utnyttja cachelagring i webbläsare.  
+Optimera bilder.  
+Aktivera komprimering.  
+Förminska JavaScript.  
+Prioritera synligt innehåll.  
+Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.  
+Minska svarstiden från servern.  
 
 Total: 121/200
 ###DevtoolNetwork:
@@ -63,20 +61,18 @@ Länkas med en thumb till matcherna eller dylikt. Sidan är alldeles för långs
 [FIGURE src="image/FZScreenshot.jpg?w=400&h=200" class="right"]
 
 ###Pagespeed poäng:
-Mobil: 48/100.
+Mobil: 48/100.  
+Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.  
+Optimera bilder.  
+Utnyttja cachelagring i webbläsare.  
+Minska svarstiden från servern.  
+Aktivera komprimering.  
 
-+ Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
-+ Optimera bilder.
-+ Utnyttja cachelagring i webbläsare.
-+ Minska svarstiden från servern.
-+ Aktivera komprimering.
-
-Dator: 65/100.
-
-+ Optimera bilder.
-+ Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
-+ Utnyttja cachelagring i webbläsare.
-+ Aktivera komprimering.
+Dator: 65/100.  
+Optimera bilder.  
+Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.  
+Utnyttja cachelagring i webbläsare.  
+Aktivera komprimering.  
 
 Total: 113/200
 
@@ -95,21 +91,19 @@ Annars spontant tycker jag även denna startsida är lite lång och packad med c
 [FIGURE src="image/OptimizelyScreenshot.png?w=400&h=200" class="right"]
 
 ###Pagespeed:
-Mobil: 56/100.
+Mobil: 56/100.  
+Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
+Utnyttja cachelagring i webbläsare.
+Optimera bilder.
+Förminska CSS.
+Förminska HTML.
 
-+ Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
-+ Utnyttja cachelagring i webbläsare.
-+ Optimera bilder.
-+ Förminska CSS.
-+ Förminska HTML.
-
-Dator: 73/100.
-
-+ Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
-+ Utnyttja cachelagring i webbläsare.
-+ Optimera bilder.
-+ Förminska CSS.
-+ Förminska HTML.
+Dator: 73/100.  
+Ta bort JavaScript- och CSS-kod som blockerar renderingen från innehåll ovanför mitten.
+Utnyttja cachelagring i webbläsare.
+Optimera bilder.
+Förminska CSS.
+Förminska HTML.
 
 Total: 129/200
 
@@ -132,9 +126,9 @@ Det som återkommer på samtliga *Insight* tester är Javascript som blockerar r
 bildoptimering samt att utnyttja cachelagringen.
 
 ##Rangordning
-1. Optimizely.
-2. FZ.
-3. NHL.
+1.Optimizely.  
+2.FZ.  
+3.NHL.  
 
 **Optimizely** är den klara vinnaren. Med en angenäm laddningstid på 7.35s och bäst
 totalpoäng på 129/200. Man har en lättöverskådlig startsida och har inte

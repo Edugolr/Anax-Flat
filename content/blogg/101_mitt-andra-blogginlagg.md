@@ -22,7 +22,7 @@ Bilden är tagen under en kvällspromenad på Patong Beach.
 Kameran jag använt är min Mobiltelefon med grundinställningar.
 Jag är inte så duktig med kameran, men anledningen till bilden är att det var väldigt vackert.
 
-"dont step on the shells"
+*dont step on the shells*
 
 
 [FIGURE src="image/strand.jpg?w=200&h=150&aro" class="left" caption="Patong Beach"]

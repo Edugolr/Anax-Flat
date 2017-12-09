@@ -24,7 +24,7 @@ Bilden är tagen på en toalett i Central Festival köpcentrum Phuket.
 Kameran jag använt är min Mobiltelefon med grundinställningar.
 Anledningen till bilden är det lustiga förbudet att stå på toaletten.
 
-"Dont step on the toilet
+*Dont step on the toilet*
 
 [FIGURE src="image/toalett.jpg?h=150&aro&f=negate" class="left" caption="Negate"]
 [FIGURE src="image/toalett.jpg?h=150&aro&f=grayscale" class="left" caption="Grayscale"]

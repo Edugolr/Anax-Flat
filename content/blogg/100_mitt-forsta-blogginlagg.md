@@ -19,6 +19,7 @@ Auto focus och ljus
 ###Beskrivning
 Bilden är tagen på en väns restaurang i Thailand. Kameran jag använt är min Mobiltelefon med
 grundinställningar. Anledningen till kortet är att föreviga en trevlig utekväll.
+*Dont step on the table*
 
 [FIGURE src="image/mat.jpg?w=150&h=150&aro&ra=15&bgc=000000" class="left" caption="ra 15 bg"]
 [FIGURE src="image/mat.jpg?w=150&h=150&aro&rb=-90" class="left" caption="rb -90"]
