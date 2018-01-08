@@ -1,4 +1,4 @@
-Usability
+Speed
 ===============================
 Det som följer är en utvärdering av webbplatsers laddningstid och användbarhet
 på 3 sidor jag själv valt ut.
